@@ -8,7 +8,7 @@ I am Mustafa Muhammad, and I present to you in this repository a complete codeba
 
 ## Web Scraping
 
-In the file `Web-Scraping.ipynb`, you will find the code and instructions for extracting weather data from websites. I used `bs4` and `requests` for web scraping to collect data from the website [https://tcktcktck.org](https://tcktcktck.org). The scraped data is saved in CSV format.
+In the file `Web-Scraping.ipynb`, you will find the code and instructions for extracting weather data from websites. I used `bs4` and `requests` for web scraping to collect data from the website [https://tcktcktck.org](https://tcktcktck.org). The  data is saved in CSV format.
 
 ## Data Analysis
 
