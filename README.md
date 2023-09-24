@@ -29,9 +29,6 @@ loaded_model = tf.keras.models.load_model('Forcast-weather-Lstm.h5')
 The model provides weather forecasts for the previous five days and predicts the weather for the next day.
 
 ## Contact
-If you have any questions or need further assistance, feel free to contact me:
-
-## Contact
 
 If you have any questions or need further assistance, feel free to contact me:
 
